@@ -1,8 +1,13 @@
 # FCC-Productivity-Challenge-Timer
 ## Features: 
 
-1. Use Pomodoro technique.
-2. Track progress by displaying graphs.
+1. Use [Pomodoro technique](https://www.youtube.com/watch?v=CT70iCaG0Gs).
+2. Track progress by displaying graphs. <br>
+     Ex: <br>
+        1.  <br> <img src="https://cloud.githubusercontent.com/assets/16509376/21007636/ba7b296a-bd63-11e6-8303-4290578556ec.jpg" height="400" /> <br>
+        2. <br> <img src="https://cloud.githubusercontent.com/assets/16509376/21007846/d1795460-bd64-11e6-8b0b-ba199f9a4280.jpg" height="400" />
+
+
 3. Achievements list.
 4. Share Achievements on FaceBook, Twitter. 
 5. Notify schedule.
