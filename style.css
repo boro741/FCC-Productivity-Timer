@@ -1,0 +1,15 @@
+@charset="UTF-8"
+div
+{
+	display:block;
+}
+.tri
+{
+	
+height:300px;
+width:300px;
+background-color:white;
+border-radius:300px;
+margin-left:500px;
+margin-top:200px;
+}
