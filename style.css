@@ -1,0 +1,39 @@
+.heading{
+		font-family: "Crafty Girls",Cursive;
+		color: white;
+		text-align:center;
+	}
+#bodi{
+	background-color:#0F1130;
+	}
+.container{
+	/*border:1px solid white;*/
+	padding-top:100px;
+	height:1000px;
+
+}
+#fcc{
+	font-size:40px;
+	color:white;
+	text-align:center;
+	padding-top:40px;
+}
+div.hmmm{
+	width:250px;
+	height:250px;
+	background:#fff;
+	border:1px solid red;
+	border-radius:100%;
+	position:relative;
+	left:40%;
+}
+
+p.circle{
+	display:table-cell;
+	font-size:60px;
+	
+	color:green;
+	position:absolute;
+	top:32%;
+	left:36%;
+}
