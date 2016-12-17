@@ -1,7 +1,8 @@
-.heading{
+.heading h1{
 		font-family: "Crafty Girls",Cursive;
 		color: white;
 		text-align:center;
+        font-size: 5em;
 	}
 #bodi{
 	background-color:#0F1130;
@@ -12,13 +13,13 @@
 	height:1000px;
 
 }
-#fcc{
+#session_name{
 	font-size:40px;
 	color:white;
 	text-align:center;
 	padding-top:40px;
 }
-div.hmmm{
+div.timer{
 	width:250px;
 	height:250px;
 	background:#fff;
