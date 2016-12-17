@@ -8,7 +8,7 @@
         2. <br> <img src="https://cloud.githubusercontent.com/assets/16509376/21007846/d1795460-bd64-11e6-8b0b-ba199f9a4280.jpg" height="400" />
 
 
-3. Achievements list.
+3. Achievements list..
 4. Share Achievements on FaceBook, Twitter. 
 5. Notify schedule.
 6. If we skip the schedule, rescheduling automatically.
