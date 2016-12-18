@@ -1,0 +1,11 @@
+div.container{
+	border: 1px solid black;
+	width: 1000px;
+}
+#headerpage{
+	font-style:italic;
+	font-family: arial,"Flavors";
+}
+h1 {
+	font-weight: 900px;
+}

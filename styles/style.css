@@ -1,5 +1,11 @@
+
+.heading{
+		font-family:"Crafty Girls",Cursive;
+	}
+
 .heading h1{
 		font-family: "Crafty Girls",Cursive;
+
 		color: white;
 		text-align:center;
         font-size: 5em;
